@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Ivan Kenneth. Computer Science, Software Technology, De La Salle University Manila. A climbing wall with a numbered route of seven green holds and a pose-tracking skeleton mid-climb.">
+<img src="assets/header.svg" width="100%" alt="Ivan Reyes. Computer Science, Software Technology, De La Salle University Manila. A climbing wall with a numbered route of seven green holds and a pose-tracking skeleton mid-climb.">
 
 ### <img src="assets/label-about.svg" height="36" alt="About">
 
