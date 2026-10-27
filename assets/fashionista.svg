@@ -31,7 +31,7 @@
 
     <!-- copy -->
     <rect x="48" y="40" width="136" height="30" rx="15" fill="#3FB57A" fill-opacity=".14" stroke="#3FB57A" stroke-width="1.5"/>
-    <text x="116" y="55" dy=".35em" class="mono" font-size="13" font-weight="700" letter-spacing="2.5" text-anchor="middle" fill="#3FB57A">PROJECTING</text>
+    <text x="116" y="55" dy=".35em" class="mono" font-size="13" font-weight="700" letter-spacing="2.5" text-anchor="middle" fill="#3FB57A">PROBLEM 02</text>
     <text x="46" y="128" class="display" font-size="54" font-weight="800" letter-spacing="-1" fill="#ECE8DF">Fashionista</text>
     <text class="display" font-size="21" fill="#B9B5AC">
       <tspan x="48" y="172">Photograph your clothes and each one</tspan>
