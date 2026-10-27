@@ -25,7 +25,7 @@ I think in diagrams first and code second. Open to **internships, student dev te
 |---|---|---|
 | **[Margin](https://github.com/azorions/note-taking-app)** | A browser study notebook with stylus ink on notes and PDFs, flashcards, and Yjs sync across devices | `JavaScript` `Yjs` `Supabase` |
 | **[facial-mesh-emotion-inference](https://github.com/azorions/facial-mesh-emotion-inference)** | Real-time emotion detection that keeps the webcam at 30+ FPS by running DeepFace on a background thread | `Python` `MediaPipe` `DeepFace` |
-| **[SOKOBOT](https://github.com/azorions/sokobot-java)** | Solves Sokoban puzzles with A* search | `Java` |
+| **[Tetris](https://github.com/azorions/tetris-python)** | Tetris with SRS rotation, T-spins, three game modes, and sound and music synthesized in code instead of audio files | `Python` `pygame-ce` |
 
 ### <img src="assets/label-tools.svg" height="36" alt="Tools">
 
