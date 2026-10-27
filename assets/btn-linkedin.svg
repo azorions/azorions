@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118 40" width="118" height="40" role="img" aria-label="LinkedIn">
+  <title>LinkedIn</title>
+  <rect x="0.75" y="0.75" width="116.5" height="38.5" rx="19.25" fill="#17191E" stroke="#2A2E36" stroke-width="1.5"/>
+  <text x="59" y="20" dy=".35em" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#ECE8DF">LinkedIn <tspan fill="#3FB57A">↗</tspan></text>
+</svg>
